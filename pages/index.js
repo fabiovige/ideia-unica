@@ -5,6 +5,8 @@ function Home() {
         <>
         <h1>Fabio Vige</h1>
         <h2>Simplicidade e funcionalidade caminham juntos</h2>
+        <hr></hr>
+        <address>fabiovige.com.br</address>
         </>
     )
 }
